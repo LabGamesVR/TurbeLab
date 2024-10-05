@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 796686308e3dff747858ee8bf6a2d91d
+  - enabled: 1
+    path: Assets/Scenes/Mapa.unity
+    guid: b3b59d1c224dd0441b8422e175341989
+  - enabled: 1
+    path: Assets/Scenes/PreFase1.unity
+    guid: 80f8d1b1d1e3534439ce4947ba7c1322
+  - enabled: 1
+    path: Assets/Scenes/PreFase2.unity
+    guid: ba15db61937fee14daa21f05ee57d9a5
+  - enabled: 1
+    path: Assets/Scenes/PreFase3.unity
+    guid: cf90e76ec8e28874295261db13192736
+  - enabled: 1
+    path: Assets/Scenes/PreFase4.unity
+    guid: c1f1706ffd0c4714787fd5ce49b434f8
+  - enabled: 1
+    path: Assets/Scenes/Storage.unity
+    guid: ae65b30a41338f64493884146b285792
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase1/Fase1Minigame1.unity
+    guid: bdf841711ae0178429c13ba483a1faa8
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase1/Fase1Minigame2.unity
+    guid: 016905e98f7081940bc96c80fb6c9a6e
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase1/Fase1Minigame3.unity
+    guid: 11392b8b04bc51142883c86f8f3077ff
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase1/FinalizacaoFase1.unity
+    guid: 2b29009bb4106304194975689a200f34
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase2/Fase2M1.unity
+    guid: 176b5c39efca24d4a8b390a2cddefa8c
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase2/Fase2M2.unity
+    guid: 6ed7ea6287d3abc46994d5350d6b4e91
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase2/Fase2M3.unity
+    guid: 054bc2f29fc71644c83723a97d709953
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase2/FinalizacaoF2.unity
+    guid: b2daa0c3abf09024c965aae9be4a749e
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase3/Fase3M1.unity
+    guid: dd3a3a73b1d991848978ad3afaa2f5dc
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase3/Fase3M2.unity
+    guid: 2ad0804d64ae57742b3f7f2ec7e6e517
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase3/Fase3M3.unity
+    guid: 18f537f2d7f5a144c8a12d8ff228b83e
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase3/FinalizacaoF3.unity
+    guid: cf8cdc12b45943d47a48cd320ad1c2c6
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/MG1/1.Facil/Fase4M1_F.unity
+    guid: 0127d9f5e17e92647823872fce5822c6
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/MG3/2.Medio/MG3_M_F.unity
+    guid: a513752ff71db834883ff9e62163230c
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/MG3/1.Facil/MG3_F.unity
+    guid: 3f763b692913c6342a37f5fbc116e6a2
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/MG3/2.Medio/MG3_M.unity
+    guid: a84763805d76b494d938148786dac1df
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/MG2/1.Facil/MG2_F_F.unity
+    guid: c2e1aa4adf4114a4b830c39707f129f7
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/MG2/1.Facil/MG2_F.unity
+    guid: 0e98378f737760c4c8f01a26a6043aeb
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/MG2/2.Medio/MG2_M.unity
+    guid: 974be9e018f934348a61240638d08f33
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/MG2/3.Dificil/MG2_D.unity
+    guid: 100e5f68abf222145a267257b4e5bd7a
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/FinalizacaoF4.unity
+    guid: c8bd1efd40ca47e4780521285dad7f72
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/MG3/1.Facil/MG3_F_F.unity
+    guid: c5658a411f7de794093974b82705becc
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/MG3/3.Dificil/MG3_D_F.unity
+    guid: 5aa8a36d6d3183d479ac0709ec40d02b
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/MG2/2.Medio/MG2_M_F.unity
+    guid: 26e0439711d03d04b8fb85c38515ded7
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/MG2/3.Dificil/MG2_D_F.unity
+    guid: dd2a5f1fb96c72144907495e501930e2
+  - enabled: 1
+    path: Assets/Scenes/ScenesFase4/MG3/3.Dificil/MG3_D.unity
+    guid: ef5748561cbc99145857b80795455992
+  m_configObjects: {}
