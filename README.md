@@ -16,8 +16,12 @@ Enviado versão 4 para avaliação em 5/10/2024.
 
 # Instalação
 
+Baixe o repositório, abra `build settings` para mudar a plataforma para android
+
 ### Versão Unity
 
 2022.3.33
+
+### Ambiente
 
 Compilado para Android usando linux
